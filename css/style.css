@@ -35,6 +35,9 @@ blockquote {
 }
 
 .header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
   padding: 24px 20px;
 }
 
